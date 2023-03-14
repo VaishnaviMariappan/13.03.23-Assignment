@@ -1,13 +1,13 @@
 # 13.03.23-Assignment
 
 ## 1. Create program for the given pattern.
-    ```
+   
     * * * * *
     * * * * *
     * * * * *
     * * * * *
     * * * * *
-    ```
+ 
 ```java
 public class pattern
 {
@@ -26,13 +26,13 @@ public class pattern
 ![image](https://user-images.githubusercontent.com/94169913/224884569-ae12235a-d8d3-4f26-958f-0160e3004491.png)
 
 ## 2. Create program for the given pattern.
-    ```
+    
     * * * * * * * * *
       * * * * * * *
         * * * * *
           * * *  
             * 
-    ```
+   
 ```java
 public class pattern2
 {
@@ -59,7 +59,7 @@ public class pattern2
 
 ### 3. Create a program for the given pattern. 
 
-    ```
+   
     *
     * *
     * * *
@@ -69,7 +69,7 @@ public class pattern2
     * * * 
     * * 
     *
-    ```
+   
 ```java
 public class pattern3
 {
